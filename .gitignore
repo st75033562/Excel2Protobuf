@@ -1,0 +1,9 @@
+/.vs/
+/Library/
+/Logs/
+/obj/
+/UserSettings/
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Common.csproj
+/Excel2Protobuf.sln
