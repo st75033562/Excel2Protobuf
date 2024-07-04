@@ -14,3 +14,7 @@
 | string | 字符串 |  |
 | Dic_int32 | 字典 (key是int32)	 | 仅第三行第一列有效 |
 | Dic_string | 字典 (key是是字符串	)	 | 仅第三行第一列有效 |
+
+编译分两步
+第一步： Tools->ExcelBuild->ToProtobuf->生成c# 等编译完成
+第二步： Tools->ExcelBuild->ToProtobuf->生成数据文件
